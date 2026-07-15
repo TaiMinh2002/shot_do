@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "501376187020",
+    "project_id": "shot-do",
+    "storage_bucket": "shot-do.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501376187020:android:888da22ed021f2665499a9",
+        "android_client_info": {
+          "package_name": "com.example.shot_do"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501376187020-gj9v7hdj4qina96hpqt0h315i8ucegch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaHy_jhBA0YZ8b7rpzhE4rpUz4blkljoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501376187020-gj9v7hdj4qina96hpqt0h315i8ucegch.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
